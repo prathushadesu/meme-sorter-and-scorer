@@ -14,8 +14,8 @@ Steps to execute
 -----------------
 An executable jar and a 'memes.json' file are placed in the 'executables.zip' folder. To execute the application,
 
-1. Please left-click** on the executables.zip folder available at https://github.com/prathushad/meme-sorter-and-scorer
-2. Please left-click** on the 'View Raw' options available on the screen at https://github.com/prathushad/meme-sorter-and-scorer/blob/master/executables.zip
+1. Please left-click** on the executables.zip folder available at https://github.com/prathushadesu/meme-sorter-and-scorer
+2. Please left-click** on the 'View Raw' options available on the screen at https://github.com/prathushadesu/meme-sorter-and-scorer/blob/master/executables.zip
 3. After being prompted to save the zip folder, please save it to the disk.
 4. Extract the zip file to a folder. After extraction, a "executables" folder is created, which contains meme-sorter-scorer.jar and memes.json.
 5. Please open a command window and cd into the "executables" folder location, which contains the memes.json and the jar file.
